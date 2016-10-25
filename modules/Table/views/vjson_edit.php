@@ -1,0 +1,1 @@
+<h1> INI ADALAH HALAMAN JSON EDIT UNTUK ID <?php echo $id ?> </h1>

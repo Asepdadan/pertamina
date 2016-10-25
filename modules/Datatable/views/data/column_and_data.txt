@@ -1,0 +1,1 @@
+{"columns":[["Satminkal"],["Kawasan Mebidangro"],["Kawasan Sei Mangke Kuala Tanjung"],["Kawasan Danau Toba"],["Kawasan Dumai"],["Kawasan PEKANSIKAWAN"]],"data":[["BM","83333333.33","0","0","0","0"],["CK","0","0","0","0","0"],["SDA","13333333.32","100000000.00","0","36666666.63","0"],["PnP","1.00","0","0","0","0"]]}

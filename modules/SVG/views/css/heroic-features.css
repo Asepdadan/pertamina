@@ -1,0 +1,356 @@
+/*!
+ * Start Bootstrap - Heroic Features HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.logo .img-responsive {
+    margin: 0 auto;
+}
+.banner-home {
+    background-image: url('../img/banner_home_fotor.jpg');
+    color: #fff;
+}
+.btn-sda {
+    color: #fff;
+    background-image: url('../img/btn_sda.jpg');
+    border-color: rgb(158, 190, 218);
+}
+.btn-sda:focus,
+.btn-sda.focus {
+    color: #fff;
+    background-image: url('../img/btn_sda.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: rgb(192, 213, 231);
+}
+.btn-sda:hover {
+    color: #fff;
+    background-image: url('../img/btn_sda.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: rgb(192, 213, 231);
+}
+
+.btn-bm {
+    color: #fff;
+    background-image: url('../img/btn_bm.jpg');
+    border-color: #c5ff8b;
+}
+.btn-bm:focus,
+.btn-bm.focus {
+    color: #fff;
+    background-image: url('../img/btn_bm.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #c5ff8b;
+}
+.btn-bm:hover {
+    color: #fff;
+    background-image: url('../img/btn_bm.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #c5ff8b;
+}
+
+.btn-ck {
+    color: #fff;
+    background-image: url('../img/btn_ck.jpg');
+    border-color: #ff9327;
+}
+.btn-ck:focus,
+.btn-ck.focus {
+    color: #fff;
+    background-image: url('../img/btn_ck.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #ff9327;
+}
+.btn-ck:hover {
+    color: #fff;
+    background-image: url('../img/btn_ck.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #ff9327;
+}
+
+.btn-pnp {
+    color: #fff;
+    background-image: url('../img/btn_pnp.jpg');
+    border-color: #c3bcd5;
+}
+.btn-pnp:focus,
+.btn-pnp.focus {
+    color: #fff;
+    background-image: url('../img/btn_pnp.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #c3bcd5;
+}
+.btn-pnp:hover {
+    color: #fff;
+    background-image: url('../img/btn_pnp.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #c3bcd5;
+}
+
+.btn-pbp {
+    color: #fff;
+    background-image: url('../img/btn_pbp.jpg');
+    border-color: #7d69a4;
+}
+.btn-pbp:focus,
+.btn-pbp.focus {
+    color: #fff;
+    background-image: url('../img/btn_pbp.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #7d69a4;
+}
+.btn-pbp:hover {
+    color: #fff;
+    background-image: url('../img/btn_pbp.jpg');
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #7d69a4;
+}
+
+.btn-admin {
+    color: #fff;
+    background-color: #00b85c;
+    border-color: #00b85c;
+}
+.btn-admin:focus,
+.btn-admin.focus {
+    color: #fff;
+    background-color: #00b85c;
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #00b85c;
+}
+.btn-admin:hover {
+    color: #fff;
+    background-color: #00b85c;
+    opacity: 0.4;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    border-color: #00b85c;
+}
+
+svg .st-wps {
+    stroke-width: 2;
+    stroke: #fff;
+    -webkit-transition: stroke 0.5s, stroke-width 0.5s;
+    -o-transition: stroke 0.5s, stroke-width 0.5s;
+    transition: stroke 0.5s, stroke-width 0.5s;
+}
+
+svg #w-terpadu1 {
+    fill: #e54c01;
+}
+svg #wps-01 {
+    fill: red;
+}
+svg #wps-02 {
+    fill: blue;
+}
+svg #wps-03 {
+    fill: #ffbfe9;
+}
+svg #wps-04 {
+    fill: #4ffe07;
+}
+svg #wps-05 {
+    fill: #56fa01;
+}
+svg #wps-06 {
+    fill: #ffbfe9;
+}
+svg #wps-07 {
+    fill: #39ac11;
+}
+svg #wps-08 {
+    fill: #e24b06;
+}
+svg #wps-09 {
+    fill: #adfc7d;
+}
+svg #wps-10 {
+    fill: #9f7e99;
+}
+svg #wps-11 {
+    fill: #f4a81e;
+}
+svg #wps-12 {
+    fill: #a9fc7f;
+}
+svg #wps-13 {
+    fill: #f4b7e2;
+}
+svg #wps-14 {
+    fill: #3dad06;
+}
+svg #wps-15 {
+    fill: #ffc1ed;
+}
+svg #wps-16 {
+    fill: #56fb02;
+}
+svg #wps-17 {
+    fill: #acf777;
+}
+svg #wps-18 {
+    fill: #fdfd1b;
+}
+svg #wps-19 {
+    fill: #fff80e;
+}
+svg #wps-20 {
+    fill: #56f907;
+}
+svg #wps-21 {
+    fill: #fcfb04;
+}
+svg #wps-22 {
+    fill: #59f705;
+}
+svg #wps-23 {
+    fill: #fbc0ec;
+}
+svg #wps-24 {
+    fill: #71a70e;
+}
+svg #wps-25 {
+    fill: #b3fd09;
+}
+svg #wps-26 {
+    fill: #fcfd15;
+}
+svg #wps-27 {
+    fill: #ffff71;
+}
+svg #wps-28 {
+    fill: #edbbdb;
+}
+svg #wps-29 {
+    fill: #4fe404;
+}
+svg #wps-30 {
+    fill: #5cf704;
+}
+svg #wps-31 {
+    fill: #fefc09;
+}
+svg #wps-32 {
+    fill: #fefc09;
+}
+svg #wps-33 {
+    fill: #fefc09;
+}
+svg #wps-34 {
+    fill: #fefc09;
+}
+
+svg .st-wps:hover , .st3.active {
+    cursor: pointer;
+    stroke-width: 4;
+    stroke: #000000;
+    opacity: 1;
+}
+
+
+svg .indonesia {
+    stroke-width: 2;
+    stroke:#646464;
+    fill: #fff;
+    -webkit-transition: stroke 0.5s, stroke-width 0.5s;
+    -o-transition: stroke 0.5s, stroke-width 0.5s;
+    transition: stroke 0.5s, stroke-width 0.5s;
+}
+
+svg #layer3{/*.foreign country.*/
+    fill: #fdf9cb;
+}
+
+svg #foreign{/*..foreign country..*/
+    fill: #fdf9cb;
+    stroke-width: 2;
+    stroke:#646464;
+
+    -webkit-transition: stroke 0.5s, stroke-width 0.5s;
+    -o-transition: stroke 0.5s, stroke-width 0.5s;
+    transition: stroke 0.5s, stroke-width 0.5s;
+}
+/*
+svg path:hover , path.active {
+    cursor: pointer;
+    opacity: 1;
+}
+*/
+/*....*/
+
+.regionlist {
+    -webkit-column-count: 5; /* Chrome, Safari, Opera */
+    -moz-column-count: 5; /* Firefox */
+    column-count: 5;
+}
+.regionlist > div {
+    font-size: 10px;
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid grey;
+}
+.regionlist > div > div {
+    display: inline-block;
+    width: 100%;
+}
+
+.regionlist > div.active {
+    font-weight: bold;
+    background-color: lightblue;
+}
+
+.map-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.svg-content {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
